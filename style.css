@@ -1,0 +1,61 @@
+body {
+    font-family: 'Libre Baskerville', serif;
+    background:#fc0303;
+}
+.header_div {
+background: #362a87;
+color: #fc0303;
+}
+
+.header_div img{
+width:100px;
+}
+.main_div {
+    background:#e8a807;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid black;
+}
+.main_div label{
+    background:pink;
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px  18px turquoise;
+}
+#camera,#result{
+    border:3px solid  black;
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px turquoise;
+}
+.main_div button{
+    width:310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px  turquoise;
+    border: 1px solid ;
+}
+.footer_div {
+margin-bottom: 50px; 
+
+}
+.footer_div h4{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow:5px 5px 18px turquoise;
+}
+.footer_div img{
+    width:70px;
+    
+}
+.copy_right_footer{
+    position: fixed;
+    color:#3300ff;
+    bottom: 0;
+    background: #bf923d;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
